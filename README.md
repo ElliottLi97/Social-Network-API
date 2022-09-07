@@ -1,4 +1,4 @@
-# Social-Network-API
+
 <h1 align="center">Social Network API</h1>
 
 ## License ![badge](https://badgen.net/badge/License/MIT/blue)
