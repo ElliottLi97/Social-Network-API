@@ -1,5 +1,5 @@
-# Social-Network-API
-<h1 align="center">Team Profile Generator</h1>
+
+<h1 align="center">Social Network API</h1>
 
 ## License ![badge](https://badgen.net/badge/License/MIT/blue)
 This project is covered under the MIT license. 
